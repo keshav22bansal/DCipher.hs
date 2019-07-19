@@ -1,4 +1,4 @@
-# Dcipher.hs
+# DCipher.hs
 
 
 We have a data comprising of trigram frequency occurring in English language which has been crawled from the web after searching extensively in the web.We first calculate the score  of each trigram by taking the log of probability of occurrence of each trigram.
